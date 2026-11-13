@@ -1,0 +1,48 @@
+# ==========================================
+# Compilação e Binários (.NET)
+# ==========================================
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.nupkg
+
+# ==========================================
+# Ficheiros de configuração do Visual Studio
+# ==========================================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ==========================================
+# Ficheiros de configuração do VS Code
+# ==========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ==========================================
+# Ficheiros temporários e de cache
+# ==========================================
+*.log
+*.cache
+TestResults/
+
+# ==========================================
+# Ficheiros de Sistema (Windows / macOS)
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Configurações Locais e Segredos (Opcional)
+# ==========================================
+# Descomenta a linha abaixo se o teu ficheiro tiver passwords ou chaves reais
+# appsettings.Development.json
+*.env
+appsettings.Local.json
