@@ -4,7 +4,7 @@
 1. Angelo Apontes Cabral 114.092
 2. Daniel Próspero de Figueiredo 114.070
 3. Gabriel Augusto Paulino Rodrigues 114.062
-4. Pedro Pereira de Souza 114.***
+4. Pedro Pereira de Souza 114.047
 
 ## Descrição do sistema
 Web API desenvolvida em .NET para o gerenciamento do acervo de uma biblioteca. Utiliza conceitos de Orientação a Objetos como herança, polimorfismo, abstração e interfaces, bem como padrões como Singleton e Repository Pattern. Os dados são salvos em memória.
